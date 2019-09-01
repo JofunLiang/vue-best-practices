@@ -1,0 +1,24 @@
+{
+  "name": "vue-best-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JofunLiang/vue-best-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JofunLiang/vue-best-practices/issues"
+  },
+  "homepage": "https://github.com/JofunLiang/vue-best-practices#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
