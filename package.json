@@ -1,7 +1,7 @@
 {
   "name": "vue-best-practices",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vue best practices.",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/JofunLiang/vue-best-practices.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Vue",
+    "best-practices"
+  ],
+  "author": "jofunLiang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JofunLiang/vue-best-practices/issues"
