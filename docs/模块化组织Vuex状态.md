@@ -4,15 +4,15 @@
 
 为了解决以上问题，建议使用模块化组织Vuex，将store分割成模块。文件结构如下：
 ```
-└── store
-    ├── index.js
-    ├── state.js
-    ├── getters.js
-    ├── actions.js
-    ├── mutations.js
-    └── modules
-        ├── moduleA.js
-        └── moduleB.js
+├── store
+│   ├── index.js
+│   ├── state.js
+│   ├── getters.js
+│   ├── actions.js
+│   ├── mutations.js
+│   └── modules
+│        ├── moduleA.js
+│        ├── moduleB.js
 ```
 然后在 store 的 index.js 文件中引入这些模块：
 ```js
