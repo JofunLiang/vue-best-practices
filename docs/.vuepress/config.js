@@ -20,6 +20,7 @@ module.exports = {
         collapsable: false,
         children: [
           '/',
+          '组件目录内始终使用文件夹管理组件',
           '开启路由懒加载',
           '模块化路由配置',
           '模块化组织Vuex状态',
